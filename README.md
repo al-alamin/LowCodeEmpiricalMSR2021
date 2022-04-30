@@ -1,5 +1,18 @@
 # Low-code-ReplicationPackage
-## An Empirical Study of Developer Discussions on Low Code Software Development Challenges
+
+# Link
+**MSR, 2021:** https://ieeexplore-ieee-org.ezproxy.lib.ucalgary.ca/document/9463132/
+
+**Presentation:** https://youtu.be/Gf4doZKPXEE
+
+
+https://user-images.githubusercontent.com/13589148/166091371-46e904f5-37d2-4d88-b561-76aee34f376b.mp4
+
+
+
+## MSR21: An Empirical Study of Developer Discussions on Low Code Software Development Challenges
+
+<br>
 
 ## Low Code Software Development
 Low code software (LCS) development is an emerging paradigm that combines minimal source code with interactive graphical interfaces to promote rapid application development. LCS aims to democratize application development to software practitioners with diverse background. Given that LCS is relatively a new paradigm, it is important to learn about the challenges developers face during their adoption of LCSD platforms. 
