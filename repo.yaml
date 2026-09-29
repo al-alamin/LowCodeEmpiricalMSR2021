@@ -1,0 +1,17 @@
+schema_version: 1
+summary: A locally maintained replication fork for an empirical study of developer
+  discussions about low-code software-development challenges.
+state: unknown
+intended_readers:
+- Researchers and maintainers of the low-code developer-discussion replication material.
+consult_when:
+- Locating documented extraction, topic-modeling and manual-labeling material for
+  the study.
+watch_when:
+- Changes to local study documentation or the organization of Codes/, TopicModelling/
+  and replication material.
+current_capabilities:
+- README documents the Stack Overflow discussion study, extraction and topic-modeling
+  workflow; Codes/, Extracted Dataset/, ManualLabelling/ and TopicModelling/ are tracked.
+- Local README updates relative to upstream establish maintained fork documentation.
+planned_capabilities: []
